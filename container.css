@@ -1,0 +1,45 @@
+.my-container{
+    background-color: red;
+    height: 1500px;
+   text-align: center;
+   text-align: justify; 
+   
+
+}
+.block1{
+    height: 150px;
+    background-color:blue;
+    padding: 70px 70px;
+    text-align: center;
+    
+}
+
+.block2{
+    height: 150px;
+    background-color:yellow;
+    padding: 60px 60px;
+    text-align: center;
+}
+
+.block3
+{
+    height: 150px;
+    background-color: teal;
+    padding: 60px 60px;
+    text-align: center;
+}
+
+.row-1
+{
+height: 400px;
+width: auto;
+background-color: violet;
+padding-top: 20px;
+
+}
+h1
+{
+    text-align: center;
+    color: red;
+    font-family: monospace;
+}
